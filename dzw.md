@@ -29,17 +29,17 @@
     <h3>系统运营工程师 - 网宿科技</h3> <span style="text-align: right">2017.09 - 2024.01</span>
 </div>
 
-### gslb-devflow, 构建传统的CI/CD自动化
+### gslb-devflow - 构建传统的CI/CD自动化
 
 - **使用jenkins构建持续集成和持续部署，** 确保流畅高效的开发工作流程。
-- **在jenkins管道中构建自动化脚本，实现配置自动部署
-- **在jenkins中实现定时任务，搭建敏捷管理任务
-- **在jenkins中集成sonarqube，并进行单元测试和自动化测试来提高代码质量
-- **通过druid + grafana搭建仪表盘，提前发现系统潜在风险
+- **在jenkins管道中构建自动化脚本，实现配置自动部署。**
+- **在jenkins中实现定时任务，搭建敏捷管理任务。**
+- **在jenkins中集成sonarqube，并进行单元测试和自动化测试来提高代码质量。**
+- **通过druid + grafana搭建仪表盘，提前发现系统潜在风险。**
 
-### dns，平台迁移/改进
-- **采用IaC策略构建基础设施，并通过APM构建应用，适配新平台的部署架构
-- **通过grafana构建监控面板搭建，保证迁移质量
-- **采用consul + k8s + konga实现service mesh，并集成monkey test，实现微服务管理，提高软件发布效率
-- **使用k8s日志管理，采集日志提高问题排查效率
+### dn - 平台迁移/改进
+- **采用IaC策略构建基础设施，并通过APM构建应用，适配新平台的部署架构。**
+- **通过grafana构建监控面板搭建，保证迁移质量。**
+- **采用consul + k8s + konga实现service mesh，并集成monkey test，实现微服务管理，提高软件发布效率。**
+- **使用k8s日志管理，采集日志提高问题排查效率。**
 
