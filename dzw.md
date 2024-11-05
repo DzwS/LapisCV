@@ -23,7 +23,7 @@
 - **监控，测试，能够搭建良好的反馈回环，完善DevOps的生命周期**
 - **具有Linux经验，能够熟练使用Linux排查问题**
 
-## 工作经验
+## 项目经验
 
 <div style="display: flex; justify-content: space-between;">
     <h3>系统运营工程师 - 网宿科技</h3> <span style="text-align: right">2017.09 - 2024.01</span>
@@ -37,7 +37,7 @@
 - **在jenkins中集成sonarqube，并进行单元测试和自动化测试来提高代码质量。**
 - **通过druid + grafana搭建仪表盘，提前发现系统潜在风险。**
 
-### dn - 平台迁移/改进
+### lbdns/gslb - 平台迁移/改进
 - **采用IaC策略构建基础设施，并通过APM构建应用，适配新平台的部署架构。**
 - **通过grafana构建监控面板搭建，保证迁移质量。**
 - **采用consul + k8s + konga实现service mesh，并集成monkey test，实现微服务管理，提高软件发布效率。**
