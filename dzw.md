@@ -27,14 +27,15 @@
 <div style="display: flex; justify-content: space-between;">
     <h3>DevOps && 研发工程师 - 网宿科技</h3> <span style="text-align: right">2017.09 - 2024.01</span>
 </div>
+&nbsp;
 
 ### gslb-devflow - 构建传统的CI/CD自动化
 
 - **通过jenkins管道持续集成20+个中心式/分布式应用组件，并通过docker + k8s实现多环境持续部署，确保流畅高效的开发工作流程。**
 - **应用consul + konga + k8s + docker搭建服务网格，并采用异地容灾，提高系统的高可用和稳定性**
 - **通过open-falcon + druid + grafana搭建仪表盘和报警系统，提前发现系统潜在风险，为未来做好容量规划。**
-- **运用Python Flask和Vue框架，搭建前后端运营平台，提高日常运营效率和运营质量**
-
+- **运用Python Flask和Vue框架，搭建前后端运营平台，提高日常运营效率和运营质量**  
+&nbsp;
 ### lbdns/gslb - 平台迁移
 - **参与编写迁移计划，与QA，产品，开发共同探讨迁移细节，保证迁移过程的质量和稳定**
 - **采用IaC策略构建基础设施，并通过RMP/APM构建应用和配置，适配新平台的部署架构。**
