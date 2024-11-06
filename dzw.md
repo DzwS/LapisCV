@@ -26,7 +26,7 @@
 ## 项目经验
 
 <div style="display: flex; justify-content: space-between;">
-    <h3>DevOps工程师 - 网宿科技</h3> <span style="text-align: right">2017.09 - 2024.01</span>
+    <h3>DevOps && 研发工程师 - 网宿科技</h3> <span style="text-align: right">2017.09 - 2024.01</span>
 </div>
 
 ### gslb-devflow - 构建传统的CI/CD自动化
