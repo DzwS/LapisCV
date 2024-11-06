@@ -2,7 +2,7 @@
 
 > 电话：`18860013374`&emsp;&emsp;邮箱：`zhiwei.deng123@gmail.com`
 
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="avatar" width="500" height="600">
+<img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="avatar" width="200" height="200">
 
 ## 基本信息
 
