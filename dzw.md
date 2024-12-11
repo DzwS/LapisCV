@@ -31,11 +31,11 @@
 
 ### 开发实践
 - **应用python编写自动化脚本有效管理云平台300台边缘型基础设施，并通过jenkins进行界面化管理，保证节点上下架流程稳定运行**
-- **应用pdns + vue + flask搭建debug工具，用于采集客户IP/DNS与缓存服务器之间的网络性能，并应用letsencrypt + cdn实现证书自动更新以及全球加速**
+- **应用pdns + flask + js搭建debug工具，用于采集客户IP/DNS与缓存服务器之间的网络性能，并应用letsencrypt + cdn实现证书自动更新以及全球加速**
 
 ### gslb-devflow - devops实践
 - **通过jenkins管道持续集成python，c++，java，go多种语言项目，并通过k8s实现多环境持续部署，确保10+个组件流畅高效的开发工作流程。**
-- **应用kustomize管理云平台的中心式基础设施，并利用consul实现配置管理，从而保证10+个组件的稳定运行**
+- **应用kustomize管理云平台的中心式基础设施，并利用consul实现配置管理，从而保证10+个组件的稳定部署**
 - **通过open-falcon，sentry搭建100+报警，并利用druid + grafana搭建仪表盘，提前发现系统潜在风险，确保升级顺利进行。**
 - **管理redis分布式集群，实现异地容灾备份，并管理kafka中间件的经验**
 - **利用ingres管理流量**
