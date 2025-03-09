@@ -48,4 +48,5 @@
     <h3>个人项目 https://github.com/DzwS/devops</h3> <span style="text-align: right">2024.09 - 2024.12, 2025.03-</span>
 </div>
 &nbsp;
-- **梳理devops2025年新的发展趋势，巩固devops的相关技能**-
+### devops
+- **梳理devops2025年新的发展趋势，巩固devops的相关技能 **
