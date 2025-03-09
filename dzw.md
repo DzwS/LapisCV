@@ -43,3 +43,9 @@
 ### 运维之前的项目
 - **应用pdns + flask + js搭建工具页面，用于采集客户IP/DNS与缓存服务器之间的网络性能，并应用letsencrypt + cdn实现证书自动更新以及全球加速**
 - **利用catchpoint第三方软件进行性能测试，管理第三方域名注册商的域名资源等，一些前后端开发工作等等**
+
+<div style="display: flex; justify-content: space-between;">
+    <h3>个人项目 https://github.com/DzwS/devops</h3> <span style="text-align: right">2024.09 - 2024.12, 2025.03-</span>
+</div>
+&nbsp;
+- **梳理devops2025年新的发展趋势，巩固devops的相关技能**-
