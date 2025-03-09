@@ -45,8 +45,9 @@
 - **利用catchpoint第三方软件进行性能测试，管理第三方域名注册商的域名资源等，一些前后端开发工作等等**
 
 <div style="display: flex; justify-content: space-between;">
-    <h3>个人项目 https://github.com/DzwS/devops</h3> <span style="text-align: right">2024.09 - 2024.12, 2025.03-</span>
+    <h3>个人项目 https://github.com/DzwS/devops</h3> <span style="text-align: right">2024.09 - 2024.12, 2025.03</span>
 </div>
 &nbsp;
-### devops
-- **梳理devops2025年新的发展趋势，巩固devops的相关技能 **
+
+### DevOps
+- **梳理devops2025年的发展趋势，巩固devops的相关技能**
