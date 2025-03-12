@@ -14,18 +14,18 @@
 **Github：** [github.com/dzws](https://github.com/dzws)&ensp;
 
 ## 专业技能
-- **熟练掌握CDN业务知识，能有效的和业务部门协作解决客户问题，并协助开发推进项目进度**
 - **具有Python, Shell的编程经验，能够实现自动化脚本和API开发，并有效管理基础设施**
 - **熟练掌握docker和k8s技术，具有多环境应用管理经验，保障应用稳定迭代和高效运行**
 - **熟练掌握监控日志管理工具，通过grafana配置仪表盘，提高软件的可观测性，有效改善系统稳定**
 - **在版本控制方面有丰富的经验，熟练管理代码库、解决合并冲突，并促进代码审议**
 - **熟练CI(持续集成)实践，了解CD(持续交付)理论, 专注提高软件发布质量和发布效率**
 - **熟练掌握敏捷开发生命周期，能够有效的响应客户需求，提高迭代效率**
+- **熟练掌握CDN业务知识，能有效的和业务部门协作解决客户问题，并协助开发推进项目进度**
 
 ## 项目经验
 
 <div style="display: flex; justify-content: space-between;">
-    <h3>DevOps 网宿科技</h3> <span style="text-align: right">2017.09 - 2024.01</span>
+    <h3>DevOps 网宿科技股份有限公司</h3> <span style="text-align: right">2017.09 - 2024.01</span>
 </div>
 &nbsp;
 
@@ -37,11 +37,6 @@
 - **实现100+报警策略，并利用grafana搭建仪表盘，增加系统的可观测行，完善监控完整度和报警处理手册，确保线上环境的稳定进行。**
 - **定期执行演练测试，如自动切换，服务自动扩容以及恢复，服务调度功能测试等，以保证现有功能持续可用，避免潜在风险产生**
 
-
-&nbsp;
-### 运维之前的项目
-- **应用pdns + flask + js搭建工具页面，用于采集客户IP/DNS与缓存服务器之间的网络性能，并应用letsencrypt + cdn实现证书自动更新以及全球加速**
-- **利用catchpoint第三方软件进行性能测试，管理第三方域名注册商的域名资源等，一些前后端开发工作等等**
 
 <div style="display: flex; justify-content: space-between;">
     <h3>个人项目 https://github.com/DzwS/devops</h3> <span style="text-align: right">2024.09 - 2024.12, 2025.03</span>
